@@ -1,0 +1,11 @@
+C:\Users\angel\source\repos\msgbox2\msgbox2\bin\Debug\msgbox2.exe.config
+C:\Users\angel\source\repos\msgbox2\msgbox2\bin\Debug\msgbox2.exe
+C:\Users\angel\source\repos\msgbox2\msgbox2\bin\Debug\msgbox2.pdb
+C:\Users\angel\source\repos\msgbox2\msgbox2\obj\Debug\msgbox2.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\msgbox2\msgbox2\obj\Debug\msgbox2.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\msgbox2\msgbox2\obj\Debug\msgbox2.Form1.resources
+C:\Users\angel\source\repos\msgbox2\msgbox2\obj\Debug\msgbox2.Properties.Resources.resources
+C:\Users\angel\source\repos\msgbox2\msgbox2\obj\Debug\msgbox2.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\msgbox2\msgbox2\obj\Debug\msgbox2.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\msgbox2\msgbox2\obj\Debug\msgbox2.exe
+C:\Users\angel\source\repos\msgbox2\msgbox2\obj\Debug\msgbox2.pdb
