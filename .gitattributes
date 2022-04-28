@@ -1,1 +1,3 @@
 *.cs linguist-language=C#
+
+/app/*/*/*/*/*/*/*.cs linguist-detectable
